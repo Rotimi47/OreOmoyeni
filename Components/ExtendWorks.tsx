@@ -11,9 +11,6 @@ export default function ExtendWorks() {
                     <h1 className="text-white font-medium text-3xl"><span className="text-[#C778DD]">#</span>projects </h1>
                     <p className="text-white">List of my projects</p>
                 </div>
-                <div>
-                    <h1 className="text-white font-medium text-3xl"><span className="text-[#C778DD]">#</span>complete-webapps</h1>
-                </div>
             </div>
             
             {/* Websites */}
