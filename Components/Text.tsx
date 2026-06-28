@@ -5,10 +5,10 @@ export default function Text() {
     <div  className='hidden lg:block w-fit mx-auto pt-10 pb-10'>
         <div className='flex flex-col max-w-4xl mx-auto '>
             <div className='w-fit relative border border-[#ABB2BF] p-8 '> 
-                <span className="absolute -top-3 left-2 text-3xl text-[#ABB2BF] bg-[#282C33] px-1">
+                <span className="absolute -top-3 left-2 text-3xl text-[#ABB2BF] bg-[#000000] px-1">
                     <IconQuoteOpen/>
                 </span>
-                <span className="absolute -bottom-3 right-2 text-3xl text-[#ABB2BF] bg-[#282C33] px-1">
+                <span className="absolute -bottom-3 right-2 text-3xl text-[#ABB2BF] bg-[#000000] px-1">
                     <IconQuote/>
                 </span>
                 <h1 className='text-white text-2xl'>That’s not a bug, that’s an undocumented feature.</h1>

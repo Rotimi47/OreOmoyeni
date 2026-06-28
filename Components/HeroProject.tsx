@@ -20,7 +20,7 @@ export default function HeroProject() {
             <div className="flex flex-col gap-4 lg:flex-row">
                 <div className="w-fit border border-[#ABB2BF]">
                     <div>
-                        <Image src="/paenote.svg" alt="project thumbnail" width={500} height={200} priority/>
+                        <Image src="/paenoteX.svg" alt="project thumbnail" width={500} height={200} priority/>
                     </div>
                     <div className="p-2 border border-[#ABB2BF]">
                         <p className="text-[#ABB2BF]">HTML CSS Javascript React</p>
@@ -35,7 +35,7 @@ export default function HeroProject() {
                             textShadow: "0px 0px 8px rgb(255,255,255)",
                          }}
                          className="text-white"
-                         ><a href="https://paenote.com/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></motion.button>
+                         ><a href="https://paenote-business-atej.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></motion.button>
                         </div>
                     </div>
                 </div>

@@ -59,7 +59,7 @@ export default function Skills() {
                         </div>
                         <div className='border border-white p-2'>
                             <p className='text-[#ABB2BF]'>
-                                Framer Motion Gsap Axios Zustand Zod Heeadless UI
+                                Framer Motion Gsap Axios Zustand Zod Headless UI
                             </p>
                         </div>
                     </div>
