@@ -74,7 +74,7 @@ export default function ExtendWorks() {
                         <h1 className="text-white font-medium text-2xl">Paenote </h1>
                         <p className="text-[#ABB2BF]">One place to run all your business finances</p>
                         <div className=" border border-[#C778DD] px-4 py-2 w-fit"> 
-                         <button className="text-white"><a href="https://rent-a-wheel-nu.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
+                         <button className="text-white"><a href="https://paenote-business-atej.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
                         </div>
                     </div>
                 </div>
