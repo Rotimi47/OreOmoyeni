@@ -103,7 +103,7 @@ export default function ExtendWorks() {
                 </div>
                 <div className="w-fit border border-[#ABB2BF]">
                     <div>
-                        <Image src="/estatein.svg" alt="project thumbnail" width={500} height={200} priority/>
+                        <Image src="/acctualX.svg" alt="project thumbnail" width={500} height={200} priority/>
                     </div>
                     <div className="p-2 border border-[#ABB2BF]">
                         <p className="text-[#ABB2BF]">React Node.jS Firebase Tailwind CSS</p>
