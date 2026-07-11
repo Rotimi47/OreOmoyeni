@@ -20,7 +20,7 @@ export default function ExtendWorks() {
             <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
                 <div className="w-fit border border-[#ABB2BF]">
                     <div>
-                        <Image src="/paenote.svg" alt="project thumbnail" width={500} height={200} priority/>
+                        <Image src="/paenoteX.svg" alt="project thumbnail" width={500} height={200} priority/>
                     </div>
                     <div className="p-2 border border-[#ABB2BF]">
                         <p className="text-[#ABB2BF]">HTML CSS Javascript React</p>
@@ -133,16 +133,16 @@ export default function ExtendWorks() {
                 </div>
                  <div className="w-fit border border-[#ABB2BF]">
                     <div>
-                        <Image src="/Wheelz.png" alt="project thumbnail" width={500} height={200} priority/>
+                        <Image src="/Lenses.svg" alt="project thumbnail" width={500} height={200} priority/>
                     </div>
                     <div className="p-2 border border-[#ABB2BF]">
                         <p className="text-[#ABB2BF]">Tailwind CSS Typescript NEXT.js Car API</p>
                     </div>
                     <div className="p-4 flex flex-col gap-4">
-                        <h1 className="text-white font-medium text-2xl">Rent-A-Wheel </h1>
-                        <p className="text-[#ABB2BF]">Rent cars with ease!</p>
+                        <h1 className="text-white font-medium text-2xl">Lenses</h1>
+                        <p className="text-[#ABB2BF]">PhotoStudio Website</p>
                         <div className=" border border-[#C778DD] px-4 py-2 w-fit"> 
-                         <button className="text-white"><a href="https://rent-a-wheel-nu.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
+                         <button className="text-white"><a href="https://lenses-app.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
                         </div>
                     </div>
                 </div>
