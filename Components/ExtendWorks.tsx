@@ -23,7 +23,7 @@ export default function ExtendWorks() {
                         <Image src="/paenoteX.svg" alt="project thumbnail" width={500} height={200} priority/>
                     </div>
                     <div className="p-2 border border-[#ABB2BF]">
-                        <p className="text-[#ABB2BF]">HTML CSS Javascript React</p>
+                        <p className="text-[#ABB2BF]">React + TypeScript Tailwind</p>
                     </div>
                     <div className="p-4 flex flex-col gap-4">
                         <h1 className="text-white font-medium text-2xl">Paenote</h1>
@@ -35,25 +35,10 @@ export default function ExtendWorks() {
                 </div>
                 <div className="w-fit border border-[#ABB2BF]">
                     <div>
-                        <Image src="/estatein.svg" alt="project thumbnail" width={500} height={200} priority/>
-                    </div>
-                    <div className="p-2 border border-[#ABB2BF]">
-                        <p className="text-[#ABB2BF]">React Node.jS Firebase Tailwind CSS</p>
-                    </div>
-                    <div className="p-4 flex flex-col gap-4">
-                        <h1 className="text-white font-medium text-2xl">Estatein</h1>
-                        <p className="text-[#ABB2BF]">Web application for booking and renting apartments</p>
-                         <div className=" border border-[#C778DD] px-4 py-2 w-fit"> 
-                         <button className="text-white"><a href="https://estatein-web-appx.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
-                        </div>
-                    </div>
-                </div>
-                <div className="w-fit border border-[#ABB2BF]">
-                    <div>
                         <Image src="/apex.svg" alt="project thumbnail" width={500} height={200} priority/>
                     </div>
                     <div className="p-2 border border-[#ABB2BF]">
-                        <p className="text-[#ABB2BF]">Tailwind CSS Typescript NEXT.js Gemini AI API</p>
+                        <p className="text-[#ABB2BF]">Tailwind Typescript NEXT.js Gemini AI API</p>
                     </div>
                     <div className="p-4 flex flex-col gap-4">
                         <h1 className="text-white font-medium text-2xl">Apex Finances</h1>
@@ -78,6 +63,47 @@ export default function ExtendWorks() {
                         </div>
                     </div>
                 </div>
+            </div>
+
+            {/* Webapps */}
+            <div>
+                <h1 className="text-white font-medium text-3xl"><span className="text-[#C778DD]">#</span>Web-Applications</h1>
+            </div>
+
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
+                <div className="w-fit border border-[#ABB2BF]">
+                    <div>
+                        <Image src="/estatein.svg" alt="project thumbnail" width={500} height={200} priority/>
+                    </div>
+                    <div className="p-2 border border-[#ABB2BF]">
+                        <p className="text-[#ABB2BF]">React Node.jS Firebase Tailwind CSS</p>
+                    </div>
+                    <div className="p-4 flex flex-col gap-4">
+                        <h1 className="text-white font-medium text-2xl">Estatein</h1>
+                        <p className="text-[#ABB2BF]">Estatein is a modern real estate web application designed to make discovering and exploring properties feel simple and intuitive.</p>
+                         <div className=" border border-[#C778DD] px-4 py-2 w-fit"> 
+                         <button className="text-white"><a href="https://estatein-web-appx.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="w-fit border border-[#ABB2BF]">
+                    <div>
+                        <Image src="/paeweb.svg" alt="project thumbnail" width={500} height={200} priority/>
+                    </div>
+                    <div className="p-2 border border-[#ABB2BF]">
+                        <p className="text-[#ABB2BF]">React + TypeScript  Tailwind API Integration</p>
+                    </div>
+                    <div className="p-4 flex flex-col gap-4">
+                        <h1 className="text-white font-medium text-2xl">Paenote Business APP</h1>
+                        <p className="text-[#ABB2BF]">A B2B financial platform that helps businesses manage payments, multi-currency wallets, team members, branches, invoices, and financial operations.</p>
+                         <div className=" border border-[#C778DD] px-4 py-2 w-fit"> 
+                         <button className="text-white"><a href="https://business.paenote.com/" target="_blank" rel="noopener noreferrer" className="flex gap-2">LIVE <IconArrowMoveRight/></a></button>
+                        </div>
+                    </div>
+                </div>
+
+                
             </div>
 
 
